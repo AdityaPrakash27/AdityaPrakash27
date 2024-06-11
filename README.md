@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Prakash</h1>
 <h3 align="center">A passionate software developer from India Seeking Opportunities to Optimize the Digital Landscape</h3>
 
-- 🌱 I’m currently learning **Web Frameworks, DSA, Machine Learning**
+- 🌱 I’m currently learning **Web Frameworks, DSA**
 
 - 💬 Ask me about **Pc games and Songs(Rap)**
 
